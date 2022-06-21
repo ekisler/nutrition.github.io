@@ -92,13 +92,13 @@ p {
   position: relative;
   width: 100%;
   bottom: 5px;
+  font-size: 11px;
 }
 
 .boton {
   position: relative;
   background-color: rgb(19, 255, 97);
   border-radius: 6%;
-  font-size: 13px;
   font-style: oblique;
   color: rgb(39, 48, 6);
   min-width: 20px;
